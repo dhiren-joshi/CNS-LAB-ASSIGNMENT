@@ -1,8 +1,8 @@
 # CNS_LAB
 
 ## Student Information
-- **Name:** Virendra Tambavekar
-- **Roll Number:** 04
+- **Name:** Dhiren Joshi
+- **Roll Number:** 14
 - **Division:** D
 - **Batch:** T10
 
